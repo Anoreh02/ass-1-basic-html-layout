@@ -1,0 +1,15 @@
+*{
+    margin: 5px;
+    box-sizing: border-box;
+}
+
+body{
+    background: #A7C7E7; 
+    font-family: sans-serif;
+    text-align: center;
+    color: white;
+    font-size: 24 px;
+    display: flex;
+    flex-direction: column;
+    
+}
